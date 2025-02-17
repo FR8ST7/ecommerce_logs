@@ -1,0 +1,49 @@
+ProductID: P001
+Product Name: Laptop
+Category: Electronics
+Price: 1000
+Availability: In Stock
+Author: N/A
+------------------------------------------
+ProductID: P002
+Product Name: Wireless Mouse
+Category: Electronics
+Price: 25
+Availability: In Stock
+Author: N/A
+------------------------------------------
+ProductID: P003
+Product Name: "The Great Gatsby"
+Category: Books
+Price: 15
+Availability: In Stock
+Author: F. Scott Fitzgerald
+------------------------------------------
+ProductID: P004
+Product Name: "Introduction to Algorithms"
+Category: Books
+Price: 50
+Availability: Out of Stock
+Author: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+------------------------------------------
+ProductID: P005
+Product Name: Bluetooth Headphones
+Category: Electronics
+Price: 75
+Availability: In Stock
+Author: N/A
+------------------------------------------
+ProductID: P006
+Product Name: Coffee Mug
+Category: Kitchenware
+Price: 10
+Availability: In Stock
+Author: N/A
+------------------------------------------
+ProductID: P007
+Product Name: "Sapiens: A Brief History of Humankind"
+Category: Books
+Price: 20
+Availability: In Stock
+Author: Yuval Noah Harari
+

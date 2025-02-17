@@ -1,0 +1,70 @@
+ProductID: M001
+Product Name: Naruto
+Category: Manga
+Price: 15
+Availability: In Stock
+Author: Masashi Kishimoto
+Publisher: Shueisha
+Volume: 72
+Language: English
+------------------------------------------
+ProductID: M002
+Product Name: One Piece
+Category: Manga
+Price: 18
+Availability: In Stock
+Author: Eiichiro Oda
+Publisher: Shueisha
+Volume: 101
+Language: English
+------------------------------------------
+ProductID: M003
+Product Name: Attack on Titan
+Category: Manga
+Price: 20
+Availability: Out of Stock
+Author: Hajime Isayama
+Publisher: Kodansha
+Volume: 34
+Language: English
+------------------------------------------
+ProductID: M004
+Product Name: My Hero Academia
+Category: Manga
+Price: 22
+Availability: In Stock
+Author: Kohei Horikoshi
+Publisher: Shueisha
+Volume: 30
+Language: English
+------------------------------------------
+ProductID: M005
+Product Name: Demon Slayer: Kimetsu no Yaiba
+Category: Manga
+Price: 25
+Availability: In Stock
+Author: Koyoharu Gotouge
+Publisher: Shueisha
+Volume: 23
+Language: English
+------------------------------------------
+ProductID: M006
+Product Name: Tokyo Ghoul
+Category: Manga
+Price: 17
+Availability: In Stock
+Author: Sui Ishida
+Publisher: Shueisha
+Volume: 14
+Language: English
+------------------------------------------
+ProductID: M007
+Product Name: Death Note
+Category: Manga
+Price: 14
+Availability: In Stock
+Author: Tsugumi Ohba
+Publisher: Shueisha
+Volume: 12
+Language: English
+
