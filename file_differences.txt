@@ -1,0 +1,16 @@
+--- ecommerce_logs/orders/order1.log	2025-02-18 00:53:49.334747454 +0530
++++ ecommerce_logs/orders/order2.log	2025-02-18 00:53:49.334747454 +0530
+@@ -1,7 +1,7 @@
+-Order ID: O101
+-Customer ID: C001
+-Items: Laptop, Wireless Mouse
+-Total Amount: 200
+-Order Status: Confirmed
+-Order Date: 2025-02-16
++Order ID: O102
++Customer ID: C002
++Items: Smartphone, Earphones
++Total Amount: 00
++Order Status: Shipped
++Order Date: 2025-02-15
+ ------------------------------------------

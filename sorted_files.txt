@@ -1,0 +1,12 @@
+ecommerce_logs/customers/customerpatient1.log 76
+ecommerce_logs/reports/usage_report.log 117
+ecommerce_logs/orders/order2.log 167
+ecommerce_logs/orders/order1.log 171
+ecommerce_logs/payments/payment2.log 179
+ecommerce_logs/refunds/refund2.log 180
+ecommerce_logs/refunds/refund1.log 184
+ecommerce_logs/customers/customer1.log 187
+ecommerce_logs/payments/payment1.log 187
+ecommerce_logs/customers/customer2.log 191
+ecommerce_logs/books/books.log 1.2K
+ecommerce_logs/books/manga.log 1.4K
